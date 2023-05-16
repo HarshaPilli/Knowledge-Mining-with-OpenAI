@@ -1,4 +1,5 @@
-> **Note:**
+Please 
+**Note:**
 > Please read the deployment guide below before deploying to Azure
 
 <br/>
